@@ -1,0 +1,16 @@
+{
+    "orders": [
+        {
+            "id": "ORD123",
+            "items": [
+                {
+                    "id": "ITEM001",
+                    "name": "ดินสอ 2B Staedtler",
+                    "date": "2025-02-01",
+                    "unit": "แท่ง",
+                    "status": "Requested"
+                }
+            ]
+        }
+    ]
+}
