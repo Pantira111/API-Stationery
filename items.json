@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "ดินสอ 2B Staedtler",
+            "image": "https://via.placeholder.com/150?text=Pencil",
+            "instock": 150,
+            "ordered": 50,
+            "unit": "แท่ง"
+        },
+        {
+            "id": 2,
+            "name": "ปากกาลูกลื่น Pilot สีน้ำเงิน",
+            "image": "https://via.placeholder.com/150?text=Pen", 
+            "instock": 200,
+            "ordered": 75,
+            "unit": "ด้าม"
+        },
+        {
+            "id": 3,
+            "name": "ยางลบ Staedtler",
+            "image": "https://via.placeholder.com/150?text=Eraser",
+            "instock": 100,
+            "ordered": 30,
+            "unit": "ก้อน"
+        },
+        {
+            "id": 4,
+            "name": "ไม้บรรทัด 12 นิ้ว",
+            "image": "https://via.placeholder.com/150?text=Ruler",
+            "instock": 80,
+            "ordered": 20,
+            "unit": "อัน"
+        },
+        {
+            "id": 5,
+            "name": "สมุดโน้ต A4 80 แผ่น",
+            "image": "https://via.placeholder.com/150?text=Notebook",
+            "instock": 120,
+            "ordered": 40,
+            "unit": "เล่ม"
+        }
+    ]
+}
